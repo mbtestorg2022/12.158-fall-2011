@@ -21,20 +21,129 @@ Overview and Calendar
 
 This course evaluates and discusses the formation and diagnostic structural properties of organic compounds with particular emphasis on those molecules which form chemical fossils. It is structured around the biosynthetic and phylogenetic origins of recalcitrant hydrocarbons.
 
-| LEC # | TOPICS |
-| --- | --- |
-| 1 | Mass spectrometry for organic geochemists |
-| 2 | Biomarker concept & acetogenic lipids |
-| 3 | Acyclic isoprenoids |
-| 4 | Hopanoids part 1 |
-| 5 | Hopanoids part 2 |
-| 6 | Steroids part 1 |
-| 7 | Steroids part 2 |
-| 8 | Pigments |
-| 9 | Application of intact polar lipids as biomarkers |
-| 10 | Molecular biosignatures |
-| 11 | Petroleum formation and occurrence |
-| 12 | Oxygen deficiency in the past 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Mass spectrometry for organic geochemists
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Biomarker concept & acetogenic lipids
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Acyclic isoprenoids
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Hopanoids part 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Hopanoids part 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Steroids part 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Steroids part 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Pigments
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Application of intact polar lipids as biomarkers
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Molecular biosignatures
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Petroleum formation and occurrence
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Oxygen deficiency in the past
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 The lectures comprise a Monday formal lecture (1.5 hours) and set readings. The Wednesday session is a discussion of a topical research article/paper.
 
